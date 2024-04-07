@@ -4,7 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/lucas-badini-brito-4a3a1a263//)
 
-![Badini GiftHub stats](https://github-readme-stats.vercel.app/api?username=st4nky&show_icons=true&theme=radical)
 
 
 ## Tecnologias do dia a dia
