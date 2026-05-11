@@ -1,7 +1,7 @@
 ### Olá, me chamo Lucas Badini ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)]([https://www.linkedin.com/in/lucas-badini-brito-4a3a1a263//](https://www.linkedin.com/in/lucasbadinibrito/))
+)]((https://www.linkedin.com/in/lucasbadinibrito/))
 
 
 
